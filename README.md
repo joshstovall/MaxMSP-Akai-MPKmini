@@ -1,4 +1,4 @@
-# MaxMSP-Akai-MPKmini
+# MaxMSP Akai MPK Mini 🎹
 Akai MPKmini (MaxMSP Patch)
 
 made by Josh Stovall
